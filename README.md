@@ -121,6 +121,8 @@ Cybersecurity | Networking | Linux | Virtualization | Ethical Hacking | Penetrat
 🙏 Acknowledgement
 
 A big thank you to Waqas Karim (CCIE) and the entire NETWORKWALKS team for their guidance and support throughout this learning journey.
+👩‍💻 Author
+Raashid Fazal Pathan
 
 ⚠️ Disclaimer
 
